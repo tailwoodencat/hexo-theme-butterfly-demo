@@ -1,0 +1,12 @@
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+
+.DS_Store
+*/.DS_Store
+
+Thumbs.db
+
+*.lock
